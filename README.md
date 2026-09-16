@@ -19,6 +19,22 @@ The dashboard has three main pages:
 Each page focuses on a different level of analysis, from an overall portfolio view to individual project details.
 
 ## What the Dashboard Shows
+## Dashboard Screenshots
+
+### Overview
+The Overview page gives a quick view of the complete project portfolio, including project status, budgets, milestone progress and overall activity.
+
+![Project Management Dashboard - Overview](Screenshots/Overview.png)
+
+### Activity Analysis
+The Activity page focuses on daily project activities and their current status, making it easier to understand what is completed, in progress, blocked or on hold.
+
+![Project Management Dashboard - Activity Analysis](Screenshots/Activity.png)
+
+### Project Details
+The Project Details page provides a deeper view of an individual project, including milestone completion, module-level activity, issues and project health.
+
+![Project Management Dashboard - Project Details](Screenshots/Project_Drilldown.png)
 
 ### Overview
 
